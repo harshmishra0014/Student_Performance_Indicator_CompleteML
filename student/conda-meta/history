@@ -1,5 +1,5 @@
-==> 2024-09-01 19:50:24 <==
-# cmd: C:\Users\Machine\anaconda3\Scripts\conda-script.py create -p student python=3.7
+==> 2024-09-02 13:12:01 <==
+# cmd: C:\Users\Machine\anaconda3\Scripts\conda-script.py create -p student python=3.7 -y
 # conda version: 24.1.2
 +defaults/win-64::ca-certificates-2024.7.2-haa95532_0
 +defaults/win-64::certifi-2022.12.7-py37haa95532_0
